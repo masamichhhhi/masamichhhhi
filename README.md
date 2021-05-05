@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=onedark)](https://github.com/masamichhhhi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=radical)](https://github.com/masamichhhhi/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
