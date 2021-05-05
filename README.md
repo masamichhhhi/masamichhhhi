@@ -1,12 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=radical)](https://github.com/masamichhhhi/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=solarized_dark)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=masamichhhhi&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=radical)](https://github.com/masamichhhhi/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=solarized_dark)
+
 <p align="left"> 
   <a href="https://github.com/masamichhhhi/masamichhhhi/">
     <img src="https://komarev.com/ghpvc/?username=masamichhhhi" alt="masamichhhhi" />
