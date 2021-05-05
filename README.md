@@ -30,7 +30,4 @@
   <a href="https://github.com/masamichhhhi">
     <img height="20" src="https://img.shields.io/github/followers/masamichhhhi?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/masamichhhhi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/masamichhhhi/posts.svg" />
-  </a>
 </p>
