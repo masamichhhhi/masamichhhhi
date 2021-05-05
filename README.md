@@ -33,7 +33,4 @@
   <a href="http://qiita.com/masamichhhhi">
     <img height="20" src="https://qiita-badge.apiapi.app/s/masamichhhhi/posts.svg" />
   </a>
-  <//qiita.com/masamichhhhi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/masamichhhhi/contributions.svg" />
-  </a>
 </p>
