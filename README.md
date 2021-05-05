@@ -6,7 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&layout=compact&theme=material-palenight" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=monokai)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
