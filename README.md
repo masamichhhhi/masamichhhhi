@@ -1,7 +1,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=radical)](https://github.com/masamichhhhi/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masamichhhhi)](https://github.com/masamichhhhi/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=solarized_dark)
 
