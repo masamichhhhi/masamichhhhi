@@ -1,10 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&langs_count=8&theme=radical)](https://github.com/masamichhhhi/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masamichhhhi&show_icons=true&theme=radical)
-![masamichi stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=monokai)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://github.com/masamichhhhi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masamichhhhi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
@@ -12,6 +5,13 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masamichhhhi&layout=compact&theme=material-palenight" />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masamichhhhi&show_icons=true&theme=radical)
+![masamichi stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=monokai)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <p align="left"> 
   <a href="https://github.com/masamichhhhi/masamichhhhi/">
