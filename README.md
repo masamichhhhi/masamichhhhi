@@ -1,3 +1,12 @@
+### Hi there, I'm Masamichi! 👋
+
+<a href="https://twitter.com/PFC_masamichhhi">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
+
 <a href="https://github.com/masamichhhhi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masamichhhhi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
