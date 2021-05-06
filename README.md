@@ -1,8 +1,8 @@
 # Hi there, I'm Masamichi! 👋
 - 🏫 I am graduate student at Saitama University and learning Computer Science 💻
-- 🐦 Twitter @PFC_masamichhhi - [link](https://twitter.com/PFC_masamichhhi)
-- 🗃 Github @masamichhhhi - [link](https://github.com/masamichhhhi)
-- 📘 Zenn @masamichhhi [link](https://zenn.dev/masamichhhi)
+- 🐦 Twitter [@PFC_masamichhhi](https://twitter.com/PFC_masamichhhi)
+- 🗃 Github [@masamichhhhi](https://github.com/masamichhhhi)
+- 📘 Zenn [@masamichhhi](https://zenn.dev/masamichhhi)
 
 <br />
 <br />
