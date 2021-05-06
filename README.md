@@ -1,4 +1,7 @@
-### Hi there, I'm Masamichi! 👋
+# Hi there, I'm Masamichi! 👋
+- 🏫 I am graduate student at Saitama University which learning Information Systems 💻
+- 🐦 Twitter @psnzbss - [link](https://twitter.com/PFC_masamichhhi)
+- 🗃 Github @psbss - [link](https://github.com/masamichhhhi)
 
 <br />
 <br />
