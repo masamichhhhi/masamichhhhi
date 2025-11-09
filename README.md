@@ -16,12 +16,6 @@
 <br/>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masamichhhhi&theme=monokai)  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=masamichhhhi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <p align="left"> 
   <a href="https://github.com/masamichhhhi/masamichhhhi/">
